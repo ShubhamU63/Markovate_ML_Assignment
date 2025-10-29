@@ -57,14 +57,14 @@ Frontend runs at 👉 http://localhost:8501
 
 ## Example Response
 
-
+```
 {
   "message": "Model trained successfully",
   "accuracy": 0.83,
   "model_path": "Model_Artifacts_Registry/models/pipeline_model_20251029_202100.joblib",
   "report_path": "Model_Artifacts_Registry/reports/report_20251029_202100.txt"
 }
-
+```
 
 ## Streamlit Frontend Features
 File uploader for dataset CSV
