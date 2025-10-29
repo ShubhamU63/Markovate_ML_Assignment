@@ -68,15 +68,15 @@ This module demonstrates a complete end-to-end ML workflow for a simple classifi
 2. Custom Sobel and Canny code
 3. Comparison between **CNN** **|** **Sobel** **|** **Canny**
 
-    # 4.Optimization and Monitoring
+    ### 4.Optimization and Monitoring
     1. Exporting to Onnx 
     2. Calcuting CPU latency
 
-    # Monitoring Plans
-    [text](Edge_Detection_(ComputerVision)_Optimization&Monitoring/Drift_monitoring_plan.md)
+    ### Monitoring Plans
+    [Edge_Detection_(ComputerVision)_Optimization&Monitoring](Edge_Detection_(ComputerVision)_Optimization&Monitoring/Drift_monitoring_plan.md)
 
 # 3. Experimentation, Reproducibility & Deployment Pipeline
-[text](<Experimentation, Reproducibility & Deployment Pipeline/Readme.md>)
+[Experimentation, Reproducibility & Deployment Pipeline](<Experimentation, Reproducibility & Deployment Pipeline/Readme.md>)
 
 # Quick Reasoning
-[text](<Quick Reasoning/readme.md>)
+[Quick Reasoning](<Quick Reasoning/readme.md>)
