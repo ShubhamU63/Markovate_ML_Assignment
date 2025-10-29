@@ -28,6 +28,8 @@ Experimentation, Reproducibility & Deployment Pipeline/
 ├── requirement.txt
 └── README.md
  ```
+
+ ## Mlops Architecture
 ![alt text](<Mlops Architecture.png>)
 
 ## Clone Repository
