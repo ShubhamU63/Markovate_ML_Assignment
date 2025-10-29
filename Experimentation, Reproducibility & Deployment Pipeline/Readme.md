@@ -29,25 +29,25 @@ Experimentation, Reproducibility & Deployment Pipeline/
 └── README.md
  ```
 
-## Run Streamlit frontend
+## Clone Repository
 
 git clone [<your-repo-url>](https://github.com/ShubhamU63/Markovate_ML_Assignment.git)
 cd project_root
 
-## Run Streamlit frontend
+## Create Virtual Environment
 python -m venv venv
 source venv/bin/activate   # for Linux/Mac
 venv\Scripts\activate   
 
-## Run Streamlit frontend
+## Install Dependencies
 pip install -r requirements.txt
 
-## Run Streamlit frontend
+## Backend – FastAPI---Run FastAPI
 uvicorn app.main:app --reload
 
 Server runs at 👉 http://127.0.0.1:8000
 
-## Run Streamlit frontend
+## Frontend – Streamlit --Run Streamlit
 streamlit run frontend/app.py
 
 
