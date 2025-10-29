@@ -49,13 +49,13 @@ This module demonstrates a complete end-to-end ML workflow for a simple classifi
 3. Created a feature correlation heatmap to identify relationships among input variables.
 
 
-## Feature Engineering
+### Feature Engineering
 1. imputation transformer
 2. one hot encoding
 3. Scaling
 4. Feature selection
 
-## Sklearn Pipeline
+### Sklearn Pipeline
 1. train the model
 2. Create Pipeline
 3. Fit pipeline with the data
@@ -63,7 +63,7 @@ This module demonstrates a complete end-to-end ML workflow for a simple classifi
 4. Save model pipe artifacts
 
 
-# 2. Edge_Detection_(ComputerVision) Optimization & Monitoring│
+## 2. Edge_Detection_(ComputerVision) Optimization & Monitoring│
 1. Basic CNN model Building on BIPEDV2 DataSet
 2. Custom Sobel and Canny code
 3. Comparison between **CNN** **|** **Sobel** **|** **Canny**
@@ -75,8 +75,8 @@ This module demonstrates a complete end-to-end ML workflow for a simple classifi
     ### Monitoring Plans
     [Edge_Detection_(ComputerVision)_Optimization&Monitoring](Edge_Detection_(ComputerVision)_Optimization&Monitoring/Drift_monitoring_plan.md)
 
-# 3. Experimentation, Reproducibility & Deployment Pipeline
+## 3. Experimentation, Reproducibility & Deployment Pipeline
 [Experimentation, Reproducibility & Deployment Pipeline](<Experimentation, Reproducibility & Deployment Pipeline/Readme.md>)
 
-# Quick Reasoning
+## Quick Reasoning
 [Quick Reasoning](<Quick Reasoning/readme.md>)
